@@ -8,15 +8,38 @@ This project aims to develop a predictive model to identify high-potential leads
 
 This repository contains the following files:
 
-1. **Jupyter Notebook (EDA_and_ModelBuilding.ipynb)**: This notebook includes the complete process of data preprocessing, exploratory data analysis (EDA), feature engineering, and logistic regression model development.
+1. **Jupyter Notebook (lead_scoring_case_study.ipynb)**: This notebook includes the complete process of data preprocessing, exploratory data analysis (EDA), feature engineering, and logistic regression model development.
 
-2. **Project Summary (Project_Summary.docx)**: A word document providing a 500-word summary of the project, including the methodology, key findings, and recommendations.
+2. **Project Summary (Project_Summary.pdf)**: A word document providing a 500-word summary of the project, including the methodology, key findings, and recommendations.
 
-3. **Stakeholder Questions (Stakeholder_Questions.docx)**: A word document addressing the four questions posed by the stakeholders.
+3. **Stakeholder Questions (Stakeholder_Questions.pdf)**: A word document addressing the four questions posed by the stakeholders.
 
-4. **Presentation Slides (Presentation.pptx)**: A PowerPoint presentation summarizing the project, analysis, and key takeaways.
+4. **Presentation Slides (Presentation.pdf)**: A PowerPoint presentation summarizing the project, analysis, and key takeaways.
 
 5. **README.md**: This file, which provides an overview of the project and the contents of the repository.
+
+<br>
+
+**Exploratory Data Analysis - Bivariate**
+
+![Exploratory Data Analysis - Bivariate](visualizations/bivariate.png)  
+<br>
+
+**Exploratory Data Analysis - Multivariate**
+
+![Exploratory Data Analysis - Multivariate](visualizations/multivariate_target_segregated.png)  
+<br>
+
+**Logistic Regression - Model Building**
+
+![Logistic Regression - Model Building Process](visualizations/correlation_heatmap_rfe.png)  
+<br>
+
+**Model Performance**
+
+![Model Performance](visualizations/roc_auc_test_dataset.png)  
+<br>
+
 
 ## Key Findings
 
