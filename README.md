@@ -20,21 +20,6 @@ This repository contains the following files:
 
 <br>
 
-**Exploratory Data Analysis - Bivariate**
-
-![Exploratory Data Analysis - Bivariate](visualizations/bivariate.png)  
-<br>
-
-**Exploratory Data Analysis - Multivariate**
-
-![Exploratory Data Analysis - Multivariate](visualizations/multivariate_target_segregated.png)  
-<br>
-
-**Logistic Regression - Model Building**
-
-![Logistic Regression - Model Building Process](visualizations/correlation_heatmap_rfe.png)  
-<br>
-
 **Model Performance**
 
 ![Model Performance](visualizations/roc_auc_test_dataset.png)  
